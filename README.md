@@ -16,9 +16,9 @@ data.json は Jade コンパイル時に読み込まれ、変数の内容がコ�
 index2.html
 は素の HTML ファイルです。Jade を使用しない場合はこちらを使用してください。
 
-css/_module.scss は spritesmith(<a href="https://github.com/Ensighten/grunt-spritesmith" target="_blank">grunt-spritesmith</a>, <a href="https://github.com/twolfson/gulp.spritesmith" target="_blank">gulp-spritesmith</a>) を使用する前提のmixinが含まれています。
+css/_module.scss は spritesmith(<a href="https://github.com/Ensighten/grunt-spritesmith" target="_blank">grunt-spritesmith</a>, <a href="https://github.com/twolfson/gulp.spritesmith" target="_blank">gulp-spritesmith</a>) を使用する前提の mixin が含まれています。
 
-css/index.scss は
+`css/index.scss` は
 
 ```
 @import 'compass';
