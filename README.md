@@ -12,7 +12,7 @@ static-website-small-basic-src
 
 を使用する前提で構成しています。
 
-data.json は Jade コンパイル時に読み込まれ、変数の内容がコンパイル後の HTML に反映されます。
+_data.json は Jade コンパイル時に読み込まれ、変数の内容がコンパイル後の HTML に反映されます。
 index2.html
 は素の HTML ファイルです。Jade を使用しない場合はこちらを使用してください。
 
